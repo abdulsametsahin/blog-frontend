@@ -1,4 +1,5 @@
 import Link from "next/link";
+import "../assets/styles/app.css";
 
 export default function IndexPage() {
   return (
